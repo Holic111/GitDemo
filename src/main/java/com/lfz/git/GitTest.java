@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("Hello Java");
 
         System.out.println("Hello IDEA");
+
+        System.out.println("Hello World");
     }
 }
