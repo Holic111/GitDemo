@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("Hello IDEA");
 
         System.out.println("Hello World");
+
+        System.out.println("Hot-fix Commit");
     }
 }
