@@ -15,5 +15,7 @@ public class GitTest {
         System.out.println("Hot-fix Commit");
 
         System.out.println("push Commit");
+        
+        System.out.println("poll Commit");
     }
 }
